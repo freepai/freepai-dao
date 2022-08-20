@@ -1,2 +1,2 @@
 # freepai-dao
-The DAO of freepai base starcoin network
+The DAO of freepai based on starcoin network
